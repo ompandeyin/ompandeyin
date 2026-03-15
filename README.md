@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Developer;Building+Intelligent+Systems" />
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=ompandeyin\&label=Profile%20views\&color=0e75b6\&style=flat)
+
 </div>
 
 ---
@@ -55,10 +59,10 @@
 
 ### 🤖 Machine Learning Projects
 
-* 📊 **ML Prediction Models**
-* 🧠 **AI Automation Systems**
-* 📈 **Data Science Analysis Projects**
-* 🔎 **Intelligent Data Processing Tools**
+* 📊 ML Prediction Models
+* 🧠 AI Automation Systems
+* 📈 Data Science Analysis Projects
+* 🔎 Intelligent Data Processing Tools
 
 *(More projects available in repositories)*
 
@@ -99,6 +103,18 @@
 # 📈 Activity Graph
 
 [![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ompandeyin\&theme=tokyo-night)](https://github.com/ompandeyin)
+
+---
+
+# 📊 GitHub Analytics
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompandeyin\&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompandeyin\&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ompandeyin\&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ompandeyin\&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ompandeyin\&theme=tokyonight\&utcOffset=8)
 
 ---
 

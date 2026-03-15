@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer | Software Engineer | Data Science Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;AI%2FML+Engineer;Software+Engineer;Building+Intelligent+Systems;Turning+Data+Into+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Developer;Building+Intelligent+Systems" />
 
 </div>
 

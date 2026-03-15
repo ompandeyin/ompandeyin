@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=ompandeyin\&label=Profile%20views\&color=0e75b6\&style=flat)
+<img src="https://komarev.com/ghpvc/?username=ompandeyin&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 </div>
 

@@ -80,7 +80,6 @@
 
 ### 🗄 Databases & Cloud
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase\&logoColor=white)

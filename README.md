@@ -121,7 +121,7 @@
 - 💧 **ML Groundwater Quality Analyzer**  
   Machine learning system that evaluates groundwater quality using PCA, anomaly detection, and WQI modeling.
 
-  ---
+---
 
 # 🏆 GitHub Achievements
 

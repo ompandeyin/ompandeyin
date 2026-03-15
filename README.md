@@ -110,6 +110,19 @@
 
 ---
 
+## 🚀 Product Experiments
+
+- 🍽️ **AI Food Stall Demand Prediction System**  
+  Built a system that predicts food stall demand using SQL aggregation and occupancy-based slot recommendation logic.
+
+- 🌾 **Digital Farmer Market (MERN Marketplace)**  
+  Real-time auction marketplace connecting farmers and buyers with instant bidding using Socket.io.
+
+- 💧 **ML Groundwater Quality Analyzer**  
+  Machine learning system that evaluates groundwater quality using PCA, anomaly detection, and WQI modeling.
+
+  ---
+
 # 🏆 GitHub Achievements
 
 <div align="center">

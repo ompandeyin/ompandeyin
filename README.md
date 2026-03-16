@@ -187,8 +187,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ompandeyin)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ompandeyin)
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/ompandeyin)

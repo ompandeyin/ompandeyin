@@ -197,6 +197,8 @@
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@ompandeyin)
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ompandey.co@gmail.com)
+
 </div>
 
 ---
